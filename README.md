@@ -1,4 +1,4 @@
-# chocolate_day
+# Chocolate Day
 Using this website you can select chocolates from list provided by the admin. 
 You can sign up to the website only by our organizations official email ID.
 It is recommended that you must run this website using artisan serve.
